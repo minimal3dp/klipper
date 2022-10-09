@@ -1,0 +1,2 @@
+/dev/serial/by-id/usb-STMicroelectronics_MARLIN_STM32G0B1RE_CDC_in_FS_Mode_2065373C5341-if
+
